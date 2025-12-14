@@ -1,0 +1,73 @@
+{
+  "habits": [
+    {
+      "type": "Habit",
+      "id": "756f5ef2-3216-4262-8665-905d3711d167",
+      "name": "Journaling",
+      "created_at": "2025-12-13",
+      "is_active": true,
+      "completion_dates": [
+        "2025-12-07",
+        "2025-12-08",
+        "2025-12-09",
+        "2025-12-10",
+        "2025-12-11",
+        "2025-12-13"
+      ],
+      "frozen_dates": [
+        "2025-12-12"
+      ]
+    },
+    {
+      "type": "Habit",
+      "id": "4fde3714-96f7-4ca8-b00b-ce3084c3f5a0",
+      "name": "Nonton Film",
+      "created_at": "2025-12-13",
+      "is_active": true,
+      "completion_dates": [
+        "2025-12-07",
+        "2025-12-08",
+        "2025-12-09",
+        "2025-12-10",
+        "2025-12-11",
+        "2025-12-13"
+      ],
+      "frozen_dates": [
+        "2025-12-12"
+      ]
+    },
+    {
+      "type": "Habit",
+      "id": "a4d29391-b03d-4831-9fde-612171de2909",
+      "name": "Minum air 1 liter",
+      "created_at": "2025-12-13",
+      "is_active": true,
+      "completion_dates": [
+        "2025-12-07",
+        "2025-12-10",
+        "2025-12-11"
+      ],
+      "frozen_dates": []
+    },
+    {
+      "type": "Habit",
+      "id": "19dddf99-62f2-4ed5-a5fb-61bbcc0bab94",
+      "name": "Meditasi",
+      "created_at": "2025-12-13",
+      "is_active": true,
+      "completion_dates": [
+        "2025-12-11"
+      ],
+      "frozen_dates": []
+    },
+    {
+      "type": "Habit",
+      "id": "34b679aa-f928-49ea-9cb8-a7f0a3fb961c",
+      "name": "Masak sendiri",
+      "created_at": "2025-12-13",
+      "is_active": true,
+      "completion_dates": [],
+      "frozen_dates": []
+    }
+  ]
+}
