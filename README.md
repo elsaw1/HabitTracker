@@ -1,4 +1,4 @@
-# Habit Tracker (OOP-Based Desktop Application)
+# Habit Tracker 
 
 Habit Tracker adalah aplikasi desktop sederhana berbasis Python yang digunakan untuk membantu pengguna membangun dan memantau kebiasaan harian. Aplikasi ini dikembangkan dengan menerapkan konsep **Pemrograman Berorientasi Objek (OOP)**, serta memisahkan tanggung jawab antara UI, logika aplikasi, domain, dan penyimpanan data.
 
