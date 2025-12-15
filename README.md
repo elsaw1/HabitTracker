@@ -53,24 +53,24 @@ habit-tracker/
 
 ## ✨ Cara Penggunaan Aplikasi
 ```
-1. **Menambah Habit**  
-   Klik tombol **Tambah**, lalu masukkan nama habit melalui dialog input.
-2. **Checklist Habit Harian**  
+1. Menambah Habit  
+   Klik tombol Tambah, lalu masukkan nama habit melalui dialog input.
+2. Checklist Habit Harian  
    Centang checkbox untuk menandai habit telah dilakukan pada tanggal aktif.
-3. **Edit dan Hapus Habit**  
-   Pilih habit pada daftar, lalu klik **Edit** untuk mengganti nama atau **Hapus** untuk menghapus habit.
-4. **Mengubah Tanggal**  
-   - Klik **Pilih Tanggal**, lalu masukkan tanggal dengan format `YYYY-MM-DD`  
-   - Atau klik **Hari Ini** untuk kembali ke tanggal sekarang
-5. **Melihat Ringkasan Mingguan**  
+3. Edit dan Hapus Habit  
+   Pilih habit pada daftar, lalu klik Edit untuk mengganti nama atau **Hapus** untuk menghapus habit.
+4. Mengubah Tanggal 
+   - Klik Pilih Tanggal, lalu masukkan tanggal dengan format `YYYY-MM-DD`  
+   - Atau klik Hari Ini untuk kembali ke tanggal sekarang
+5. Melihat Ringkasan Mingguan  
    Panel kanan menampilkan ringkasan mingguan berupa:
    - Persentase penyelesaian
    - Current streak
    - Longest streak
    - Badge mingguan
    - Sisa freeze
-6. **Export Data**  
-   Klik **Export CSV** untuk menyimpan ringkasan mingguan ke file CSV.
+6. Export Data  
+   Klik Export CSV untuk menyimpan ringkasan mingguan ke file CSV.
 ```
 
 ## 💾 Penyimpanan Data
